@@ -1,4 +1,4 @@
-# Basic-Inbound-Contact-Center-with-Amazon-Connect
+# Basic Voice Inbound-Contact-Center-with-Amazon-Connect
 Using the AWS Cloud service Amazon Connect, we can easily setup a contact center with only a few clicks.
 
 # Objective:
