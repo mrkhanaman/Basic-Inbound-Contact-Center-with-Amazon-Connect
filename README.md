@@ -15,9 +15,9 @@ Using the AWS Cloud service Amazon Connect, we can easily setup a contact center
   6	Create Users 	
   
   7	Create following flows:
-    * Sales Flow = to handle all sales queries.
-    * Technical Support Flow = to handle all post-sales and support queries.
-    *  Track Order service = to handle priority call service.
+      ** Sales Flow = to handle all sales queries.
+      ** Technical Support Flow = to handle all post-sales and support queries.
+      ** Track Order service = to handle priority call service.
   
   8	Create Order Status Flow	
   
